@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "EGO - Takanashi Kiara (Official Music Video)",
+  "base_artist": "Takanashi Kiara",
+  "createdAt": "2026-02-08T06:25:51.939738Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ego",
+      "artist": "Samy Deluxe",
+      "has_synced": true,
+      "path": "select/01_Ego_Samy_Deluxe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ego",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/02_Ego_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ich, ich, ich oder der Schrei des Ego",
+      "artist": "Thomas D",
+      "has_synced": true,
+      "path": "select/03_Ich,_ich,_ich_oder_der_Schrei_des_Ego_Thomas_D.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ich, Ich, Ich Oder Der Schrei Des Ego (featuring Bert Bera)",
+      "artist": "Thomas D",
+      "has_synced": true,
+      "path": "select/04_Ich,_Ich,_Ich_Oder_Der_Schrei_Des_Ego_(featuring_Bert_Bera)_Thomas_D.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Negro Wit' an Ego",
+      "artist": "Salt-N-Pepa",
+      "has_synced": true,
+      "path": "select/05_Negro_Wit'_an_Ego_Salt-N-Pepa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pink Ego Box",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/06_Pink_Ego_Box_Muse.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "let gO Of my egO",
+      "artist": "Nnamdi Ogbonnaya",
+      "has_synced": false,
+      "path": "select/07_let_gO_Of_my_egO_Nnamdi_Ogbonnaya.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ofrenda-Flanger-Ego-à Gogo",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/08_Ofrenda-Flanger-Ego-à_Gogo_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Autobahn 66 - Alter Ego Remix",
+      "artist": "Primal Scream",
+      "has_synced": false,
+      "path": "select/09_Autobahn_66_-_Alter_Ego_Remix_Primal_Scream.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ego Death (feat. Kanye West, FKA twigs & Skrillex)",
+      "artist": "Ty Dolla $ign feat. FKA twigs, Skrillex & Kanye West",
+      "has_synced": true,
+      "path": "select/10_Ego_Death_(feat._Kanye_West,_FKA_twigs_&_Skrillex)_Ty_Dolla_$ign_feat._FKA_twigs,_Skrillex_&_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ego Death (feat. Kanye West, FKA twigs & Skrillex)",
+      "artist": "Ty Dolla $ign, Kanye West, FKA twigs, Skrillex",
+      "has_synced": true,
+      "path": "select/11_Ego_Death_(feat._Kanye_West,_FKA_twigs_&_Skrillex)_Ty_Dolla_$ign,_Kanye_West,_FKA_twigs,_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ego Death",
+      "artist": "A Place to Bury Strangers",
+      "has_synced": true,
+      "path": "select/12_Ego_Death_A_Place_to_Bury_Strangers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ego Death (Allen Blickle of Baroness Remix)",
+      "artist": "A Place to Bury Strangers",
+      "has_synced": false,
+      "path": "select/13_Ego_Death_(Allen_Blickle_of_Baroness_Remix)_A_Place_to_Bury_Strangers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ego Death (Figo Remix)",
+      "artist": "A Place to Bury Strangers",
+      "has_synced": false,
+      "path": "select/14_Ego_Death_(Figo_Remix)_A_Place_to_Bury_Strangers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EGO",
+      "artist": "Takanashi Kiara",
+      "has_synced": false,
+      "path": "select/pl_01_EGO_Takanashi_Kiara.txt"
+    }
+  ]
+}
